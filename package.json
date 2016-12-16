@@ -1,0 +1,28 @@
+{
+  "name": "hyper-solarized-dark-highcontrast",
+  "version": "0.0.1",
+  "description": "Hyper theme using the dark Solarized colors (high contrast)",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "theme",
+    "solarized"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roccozanni/hyper-solarized-dark-highcontrast.git"
+  },
+  "author": "Rocco Zanni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roccozanni/hyper-solarized-dark-highcontrast/issues"
+  },
+  "homepage": "https://github.com/roccozanni/hyper-solarized-dark-highcontrast#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
